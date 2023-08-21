@@ -1,4 +1,4 @@
-import Index from "../../components/Home/Index";
+import Index from "../components/Home/Index";
 
 
 const HomePage = () => {

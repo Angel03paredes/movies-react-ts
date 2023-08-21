@@ -1,8 +1,11 @@
 import React from 'react'
+import Index from '../components/Movie/Index'
 
 function MoviePage() {
   return (
-    <div>MoviePage</div>
+    <>
+    <Index/>
+    </>
   )
 }
 
